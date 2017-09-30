@@ -32,4 +32,4 @@ Tested with :
 
 Licensed under the MIT License
 
-A copy of the license is available in the repository's LICENSE file.
+A copy of the license is available in the repository's [LICENSE](LICENSE.md) file.
